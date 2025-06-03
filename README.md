@@ -54,6 +54,9 @@ Saraswati Senior Secondary School, Narnaul
 
 **D2D E-Commerce System**  
 03/2024 – Present  
+- Designed, developed, tested and maintained scalable web applications using .NET technologies such as ASP.NET, C#, and Web API.
+- Collaborated with cross-functional teams to identify requirements and implement effective business solutions.
+- Ensured high-quality, optimized code by following best practices in coding standards, testing, debugging, and performance troubleshooting.
 - Full-stack platform managing first and last mile delivery process for airlines.  
 - Features include express deliveries, operations management for vehicles, hubs, warehouses.  
 - Enables real-time visibility and operational efficiency.  
